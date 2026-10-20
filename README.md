@@ -2,6 +2,10 @@
 
 An offline Android music and podcast player for reviewing an Airsonic playlist while traveling without reliable internet access.
 
+[**Download APK**](https://github.com/dimarys/Ownsonic/releases/latest) · [All releases](https://github.com/dimarys/Ownsonic/releases)
+
+Requires Android 8.0 or newer. Download the signed release APK from the release assets and open it on your phone to install.
+
 ## Screenshots
 
 <p>
