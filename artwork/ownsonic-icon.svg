@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="18 18 72 72" width="512" height="512">
+  <title>Ownsonic launcher icon</title>
+  <rect x="18" y="18" width="72" height="72" rx="18" fill="#101713"/>
+  <path d="M32 57V52C32 39.85 41.85 30 54 30C66.15 30 76 39.85 76 52V57" fill="none" stroke="#B8F36E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M34 51H36C38.21 51 40 52.79 40 55V67C40 69.21 38.21 71 36 71H34C31.24 71 29 68.76 29 66V56C29 53.24 31.24 51 34 51Z" fill="#B8F36E"/>
+  <path d="M72 51H74C76.76 51 79 53.24 79 56V66C79 68.76 76.76 71 74 71H72C69.79 71 68 69.21 68 67V55C68 52.79 69.79 51 72 51Z" fill="#B8F36E"/>
+  <path d="M48 45C48 43.8 49.3 43.08 50.32 43.72L64.1 52.72C65.14 53.4 65.14 54.92 64.1 55.6L50.32 64.6C49.3 65.24 48 64.52 48 63.32Z" fill="#E5FFD4"/>
+  <path d="M42 39C45.5 35.8 49.7 34.2 54 34.2" fill="none" stroke="#E5FFD4" stroke-width="2" stroke-linecap="round"/>
+</svg>

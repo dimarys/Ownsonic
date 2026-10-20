@@ -1,0 +1,345 @@
+Dependency copyright notices
+============================
+
+Copyright statements retained from the published source archives for the
+release runtime dependencies. Repeated statements within each group are
+listed once. Third-party license terms are retained in the accompanying
+license texts. The component list and origins are in THIRD_PARTY_NOTICES.txt.
+
+androidx.activity
+-----------------
+Copyright (C) 2020 The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+Copyright 2023 The Android Open Source Project
+
+androidx.annotation
+-------------------
+Copyright (C) 2013 The Android Open Source Project
+Copyright (C) 2014 The Android Open Source Project
+Copyright (C) 2015 The Android Open Source Project
+Copyright (C) 2016 The Android Open Source Project
+Copyright (C) 2017 The Android Open Source Project
+Copyright (C) 2020 The Android Open Source Project
+Copyright (C) 2021 The Android Open Source Project
+Copyright (C) 2022 The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2023 The Android Open Source Project
+Copyright 2024 The Android Open Source Project
+
+androidx.arch.core
+------------------
+Copyright (C) 2017 The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+
+androidx.autofill
+-----------------
+Copyright 2019 The Android Open Source Project
+
+androidx.collection
+-------------------
+Copyright (C) 2017 The Android Open Source Project
+Copyright (C) 2019 The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+Copyright 2023 The Android Open Source Project
+Copyright 2024 The Android Open Source Project
+
+androidx.compose.animation
+--------------------------
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+Copyright 2023 The Android Open Source Project
+Copyright 2024 The Android Open Source Project
+Copyright 2025 The Android Open Source Project
+
+androidx.compose.foundation
+---------------------------
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+Copyright 2023 The Android Open Source Project
+Copyright 2024 The Android Open Source Project
+Copyright 2025 The Android Open Source Project
+
+androidx.compose.material
+-------------------------
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+
+androidx.compose.material3
+--------------------------
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+Copyright 2023 The Android Open Source Project
+Copyright 2024 The Android Open Source Project
+Copyright 2025 The Android Open Source Project
+
+androidx.compose.runtime
+------------------------
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2025 The Android Open Source Project
+
+androidx.compose.ui
+-------------------
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+Copyright 2023 The Android Open Source Project
+Copyright 2024 The Android Open Source Project
+Copyright 2025 The Android Open Source Project
+
+androidx.concurrent
+-------------------
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+
+androidx.core
+-------------
+Copyright (C) 2017 The Android Open Source Project
+Copyright (C) 2018 The Android Open Source Project
+Copyright (C) 2019 The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+Copyright 2024 The Android Open Source Project
+
+androidx.customview
+-------------------
+Copyright 2021 The Android Open Source Project
+
+androidx.documentfile
+---------------------
+Copyright 2018 The Android Open Source Project
+
+androidx.dynamicanimation
+-------------------------
+Copyright (C) 2017 The Android Open Source Project
+
+androidx.emoji2
+---------------
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+
+androidx.exifinterface
+----------------------
+Copyright 2018 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+
+androidx.graphics
+-----------------
+Copyright 2022 The Android Open Source Project
+
+androidx.interpolator
+---------------------
+Copyright 2018 The Android Open Source Project
+
+androidx.legacy
+---------------
+Copyright 2018 The Android Open Source Project
+
+androidx.lifecycle
+------------------
+Copyright (C) 2017 The Android Open Source Project
+Copyright (C) 2024 The Android Open Source Project
+Copyright 2017 The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+Copyright 2023 The Android Open Source Project
+Copyright 2024 The Android Open Source Project
+Copyright 2025 The Android Open Source Project
+
+androidx.loader
+---------------
+Copyright 2018 The Android Open Source Project
+
+androidx.localbroadcastmanager
+------------------------------
+Copyright 2018 The Android Open Source Project
+
+androidx.media
+--------------
+Copyright (C) 2013 The Android Open Source Project
+Copyright (C) 2014 The Android Open Source Project
+Copyright 2014, The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+
+androidx.media3
+---------------
+Copyright (C) 2010 Bill Cox, Sonic Library
+Copyright (C) 2014 The Android Open Source Project
+Copyright (C) 2016 The Android Open Source Project
+Copyright (C) 2017 The Android Open Source Project
+Copyright (C) 2018 The Android Open Source Project
+Copyright (C) 2019 The Android Open Source Project
+Copyright (C) 2020 The Android Open Source Project
+Copyright (C) 2021 The Android Open Source Project
+Copyright (C) 2022 The Android Open Source Project
+Copyright (C) 2023 The Android Open Source Project
+Copyright (C) 2024 The Android Open Source Project
+Copyright 2017 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+Copyright 2023 The Android Open Source Project
+Copyright 2024 The Android Open Source Project
+Copyright 2025 The Android Open Source Project
+
+androidx.print
+--------------
+Copyright 2018 The Android Open Source Project
+
+androidx.profileinstaller
+-------------------------
+Copyright (C) 2021 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+
+androidx.room
+-------------
+Copyright (C) 2016 The Android Open Source Project
+Copyright (C) 2017 The Android Open Source Project
+Copyright (C) 2018 The Android Open Source Project
+Copyright (C) 2020 The Android Open Source Project
+Copyright (C) 2022 The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+
+androidx.savedstate
+-------------------
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2024 The Android Open Source Project
+Copyright 2025 The Android Open Source Project
+
+androidx.sqlite
+---------------
+Copyright (C) 2016 The Android Open Source Project
+Copyright (C) 2017 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+
+androidx.startup
+----------------
+Copyright 2020 The Android Open Source Project
+
+androidx.tracing
+----------------
+Copyright 2020 The Android Open Source Project
+
+androidx.transition
+-------------------
+Copyright (C) 2016 The Android Open Source Project
+Copyright (C) 2017 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2023 The Android Open Source Project
+
+androidx.versionedparcelable
+----------------------------
+Copyright 2018 The Android Open Source Project
+
+androidx.window
+---------------
+Copyright (C) 2024 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+Copyright 2023 The Android Open Source Project
+Copyright 2024 The Android Open Source Project
+Copyright 2025 The Android Open Source Project
+
+androidx.work
+-------------
+Copyright (C) 2017 The Android Open Source Project
+Copyright 2017 The Android Open Source Project
+Copyright 2018 The Android Open Source Project
+Copyright 2019 The Android Open Source Project
+Copyright 2020 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
+Copyright 2022 The Android Open Source Project
+Copyright 2023 The Android Open Source Project
+Copyright 2024 The Android Open Source Project
+
+com.google.guava
+----------------
+Copyright (C) 2005 The Guava Authors
+Copyright (C) 2006 The Guava Authors
+Copyright (C) 2007 The Guava Authors
+Copyright (C) 2008 The Guava Authors
+Copyright (C) 2009 The Guava Authors
+Copyright (C) 2010 The Guava Authors
+Copyright (C) 2011 The Guava Authors
+Copyright (C) 2011 The Guava Authors.
+Copyright (C) 2012 The Guava Authors
+Copyright (C) 2013 The Guava Authors
+Copyright (C) 2014 The Guava Authors
+Copyright (C) 2015 The Guava Authors
+Copyright (C) 2016 The Guava Authors
+Copyright (C) 2017 The Guava Authors
+Copyright (C) 2018 The Guava Authors
+Copyright (C) 2019 The Guava Authors
+Copyright (C) 2020 The Guava Authors
+Copyright (C) 2021 The Guava Authors
+Copyright (C) 2023 The Guava Authors
+Copyright (C) 2024 The Guava Authors
+Copyright 2011 Google Inc. All Rights Reserved.
+Copyright 2019 The Guava Authors
+
+org.jetbrains
+-------------
+Copyright 2000-2020 JetBrains s.r.o.
+Copyright 2000-2021 JetBrains s.r.o.
+
+org.jetbrains.kotlin
+--------------------
+Copyright (c) 2007-present, Stephen Colebourne & Michael Nascimento Santos
+Copyright 2007 Google Inc.
+Copyright 2010-2015 JetBrains s.r.o.
+Copyright 2010-2016 JetBrains s.r.o.
+Copyright 2010-2017 JetBrains s.r.o.
+Copyright 2010-2018 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license
+Copyright 2010-2018 JetBrains s.r.o. and Kotlin Programming Language contributors.
+Copyright 2010-2019 JetBrains s.r.o. and Kotlin Programming Language contributors.
+Copyright 2010-2020 JetBrains s.r.o. and Kotlin Programming Language contributors.
+Copyright 2010-2021 JetBrains s.r.o. and Kotlin Programming Language contributors.
+Copyright 2010-2022 JetBrains s.r.o. and Kotlin Programming Language contributors.
+Copyright 2010-2023 JetBrains s.r.o. and Kotlin Programming Language contributors.
+Copyright 2010-2024 JetBrains s.r.o. and Kotlin Programming Language contributors.
+Copyright 2010-2025 JetBrains s.r.o. and Kotlin Programming Language contributors.
+Copyright 2011 The Guava Authors
+
+org.jetbrains.kotlinx
+---------------------
+Copyright 2017-2019 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license.
+Copyright 2017-2020 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license.
+Copyright 2017-2021 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license.
+Copyright 2017-2022 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license.
+Copyright 2017-2023 JetBrains s.r.o. Use of this source code is governed by the Apache 2.0 license.
+
+org.jspecify
+------------
+Copyright 2018-2020 The JSpecify Authors.
+Copyright 2022 The JSpecify Authors.

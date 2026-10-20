@@ -1,0 +1,197 @@
+Ownsonic third-party notices
+===========================
+
+Ownsonic's original code, documentation, and artwork are licensed under
+GPL-3.0-only, except for third-party material identified here. The full GPLv3
+text is in LICENSE. Third-party components retain their original licenses.
+
+The accompanying legal/ directory contains full third-party license texts
+and COPYRIGHT_NOTICES.txt with copyright statements retained from published
+dependency sources. In APKs, this file, LICENSE, and the contents of legal/
+are included together under assets/legal/. No internet connection is needed
+to read the extracted files.
+
+This notice describes the release runtime dependency snapshot reviewed on
+October 19, 2026. Its dependencies are unchanged as of October 20, 2026.
+The list below includes transitive dependencies, even where optimization
+removes their unused code. Build and test tools are not release runtime
+dependencies. The full configuration inventory, including test-only tools,
+is available in docs/license-dependencies.csv in the source repository.
+
+AndroidX and Media3
+------------------
+Copyright The Android Open Source Project and contributors, with the
+individual statements preserved in legal/COPYRIGHT_NOTICES.txt.
+Media3's Sonic audio processor includes code copyright (C) 2010 Bill Cox,
+Sonic Library. AndroidX Graphics Path includes native AOSP math helpers.
+License: Apache-2.0 (legal/licenses/Apache-2.0.txt).
+Sources:
+  https://android.googlesource.com/platform/frameworks/support
+  https://github.com/androidx/media/tree/1.8.0
+
+Kotlin and Kotlin libraries
+--------------------------
+Copyright JetBrains s.r.o. and Kotlin Programming Language contributors.
+Individual copyright statements are preserved in legal/COPYRIGHT_NOTICES.txt.
+License: Apache-2.0 (legal/licenses/Apache-2.0.txt), with the following
+additional notices for code incorporated in Kotlin's JVM standard library:
+
+  GWT-derived collections:
+    Copyright (C) 2007-08 Google Inc.
+    License: Apache-2.0, retained in legal/licenses/kotlin/gwt_license.txt.
+
+  Guava-derived unsigned arithmetic:
+    Copyright (C) 2011 The Guava Authors.
+    License: Apache-2.0, retained in legal/licenses/kotlin/guava_license.txt.
+
+  ThreeTen-derived time code:
+    Copyright (c) 2007-present, Stephen Colebourne & Michael Nascimento Santos.
+    License: BSD-3-Clause, including its copyright and disclaimer, retained
+    in legal/licenses/kotlin/threetenbp_license.txt.
+
+  Boost-derived mathematical functions:
+    Copyright Eric Ford & Hubert Holin 2001.
+    License: Boost-1.0, retained in legal/licenses/kotlin/boost_LICENSE.txt.
+
+Sources:
+  https://github.com/JetBrains/kotlin/tree/v2.2.10
+  https://github.com/JetBrains/kotlin/blob/v2.2.10/license/README.md
+  https://github.com/Kotlin/kotlinx.coroutines/tree/1.10.2
+  https://github.com/Kotlin/kotlinx.serialization/tree/v1.7.3
+  https://github.com/JetBrains/java-annotations
+
+Guava and failureaccess
+-----------------------
+Copyright The Guava Authors. Individual copyright statements are preserved
+in legal/COPYRIGHT_NOTICES.txt.
+License: Apache-2.0 (legal/licenses/Apache-2.0.txt).
+Source: https://github.com/google/guava/tree/v33.3.1
+
+JSpecify
+--------
+Copyright The JSpecify Authors. Individual copyright statements are
+preserved in legal/COPYRIGHT_NOTICES.txt.
+License: Apache-2.0 (legal/licenses/Apache-2.0.txt).
+Source: https://github.com/jspecify/jspecify/tree/v1.0.0
+
+Material Icons
+--------------
+Google Material Design Icons and contributors.
+Ownsonic's ic_like.xml and ic_dislike.xml adapt the thumb_up design with
+simplified coordinates; ic_dislike.xml additionally rotates the design.
+These adaptations are not part of Ownsonic's original launcher artwork.
+License: Apache-2.0 (legal/licenses/Apache-2.0.txt).
+Source: https://github.com/google/material-design-icons
+Original icon: src/action/thumb_up/materialicons/24px.svg
+
+Gradle wrapper (source repository only)
+--------------------------------------
+Copyright (C) 2015 the original authors, as stated in the wrapper scripts.
+License: Apache-2.0 (legal/licenses/Apache-2.0.txt).
+The wrapper JAR also retains its upstream META-INF/LICENSE.
+Source: https://github.com/gradle/gradle
+
+The downloaded songs, podcast audio, and cover images belong to their
+respective rights holders. They are not distributed as part of Ownsonic
+and are not licensed by Ownsonic's GPL declaration.
+
+Release runtime components
+--------------------------
+All Maven coordinates listed below declare Apache-2.0 at the component
+level. Embedded third-party notices described above also apply.
+
+androidx.activity:activity-compose:1.8.2
+androidx.activity:activity-ktx:1.8.2
+androidx.activity:activity:1.8.2
+androidx.annotation:annotation-experimental:1.4.1
+androidx.annotation:annotation-jvm:1.9.1
+androidx.arch.core:core-common:2.2.0
+androidx.arch.core:core-runtime:2.2.0
+androidx.autofill:autofill:1.0.0
+androidx.collection:collection-jvm:1.5.0
+androidx.collection:collection-ktx:1.5.0
+androidx.compose.animation:animation-android:1.10.4
+androidx.compose.animation:animation-core-android:1.10.4
+androidx.compose.foundation:foundation-android:1.10.4
+androidx.compose.foundation:foundation-layout-android:1.10.4
+androidx.compose.material3:material3-android:1.4.0
+androidx.compose.material:material-ripple-android:1.10.4
+androidx.compose.runtime:runtime-android:1.10.4
+androidx.compose.runtime:runtime-annotation-android:1.10.4
+androidx.compose.runtime:runtime-retain-android:1.10.4
+androidx.compose.runtime:runtime-saveable-android:1.10.4
+androidx.compose.ui:ui-android:1.10.4
+androidx.compose.ui:ui-geometry-android:1.10.4
+androidx.compose.ui:ui-graphics-android:1.10.4
+androidx.compose.ui:ui-text-android:1.10.4
+androidx.compose.ui:ui-tooling-preview-android:1.10.4
+androidx.compose.ui:ui-unit-android:1.10.4
+androidx.compose.ui:ui-util-android:1.10.4
+androidx.concurrent:concurrent-futures-ktx:1.1.0
+androidx.concurrent:concurrent-futures:1.1.0
+androidx.core:core-ktx:1.16.0
+androidx.core:core-viewtree:1.0.0
+androidx.core:core:1.16.0
+androidx.customview:customview-poolingcontainer:1.0.0
+androidx.documentfile:documentfile:1.0.0
+androidx.dynamicanimation:dynamicanimation:1.0.0
+androidx.emoji2:emoji2:1.4.0
+androidx.exifinterface:exifinterface:1.3.6
+androidx.graphics:graphics-path:1.0.1
+androidx.interpolator:interpolator:1.0.0
+androidx.legacy:legacy-support-core-utils:1.0.0
+androidx.lifecycle:lifecycle-common-java8:2.9.4
+androidx.lifecycle:lifecycle-common-jvm:2.9.4
+androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4
+androidx.lifecycle:lifecycle-livedata-core:2.9.4
+androidx.lifecycle:lifecycle-livedata:2.9.4
+androidx.lifecycle:lifecycle-process:2.9.4
+androidx.lifecycle:lifecycle-runtime-android:2.9.4
+androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4
+androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4
+androidx.lifecycle:lifecycle-service:2.9.4
+androidx.lifecycle:lifecycle-viewmodel-android:2.9.4
+androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4
+androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4
+androidx.lifecycle:lifecycle-viewmodel:2.9.4
+androidx.loader:loader:1.0.0
+androidx.localbroadcastmanager:localbroadcastmanager:1.0.0
+androidx.media3:media3-common:1.8.0
+androidx.media3:media3-container:1.8.0
+androidx.media3:media3-database:1.8.0
+androidx.media3:media3-datasource:1.8.0
+androidx.media3:media3-decoder:1.8.0
+androidx.media3:media3-exoplayer:1.8.0
+androidx.media3:media3-extractor:1.8.0
+androidx.media3:media3-session:1.8.0
+androidx.media:media:1.7.0
+androidx.print:print:1.0.0
+androidx.profileinstaller:profileinstaller:1.4.0
+androidx.room:room-common:2.6.1
+androidx.room:room-ktx:2.6.1
+androidx.room:room-runtime:2.6.1
+androidx.savedstate:savedstate-android:1.3.2
+androidx.savedstate:savedstate-compose-android:1.3.2
+androidx.savedstate:savedstate-ktx:1.3.2
+androidx.sqlite:sqlite-framework:2.4.0
+androidx.sqlite:sqlite:2.4.0
+androidx.startup:startup-runtime:1.1.1
+androidx.tracing:tracing-ktx:1.2.0
+androidx.tracing:tracing:1.2.0
+androidx.transition:transition:1.6.0
+androidx.versionedparcelable:versionedparcelable:1.1.1
+androidx.window:window-core-android:1.5.0
+androidx.window:window:1.5.0
+androidx.work:work-runtime-ktx:2.10.1
+androidx.work:work-runtime:2.10.1
+com.google.guava:failureaccess:1.0.2
+com.google.guava:guava:33.3.1-android
+com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava
+org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.22
+org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22
+org.jetbrains.kotlin:kotlin-stdlib:2.2.10
+org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2
+org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.10.2
+org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.7.3
+org.jetbrains:annotations:23.0.0
+org.jspecify:jspecify:1.0.0

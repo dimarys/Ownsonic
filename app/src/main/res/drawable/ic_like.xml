@@ -1,0 +1,6 @@
+<!-- Adapted from Google Material Icons (Apache-2.0); coordinates simplified for Ownsonic. See THIRD_PARTY_NOTICES.txt. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <path android:fillColor="#FFFFFFFF" android:pathData="M1,21H5V9H1Z M23,10C23,8.9 22.1,8 21,8H14.7L15.7,3.4L15.7,3.1C15.7,2.7 15.5,2.3 15.3,2L14.2,1L7.6,7.6C7.2,8 7,8.5 7,9V19C7,20.1 7.9,21 9,21H18C18.8,21 19.5,20.5 19.8,19.8L22.8,12.8C22.9,12.5 23,12.3 23,12Z" />
+</vector>
